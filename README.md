@@ -1,7 +1,9 @@
 # LottoNumbersGenerator
 Lotto Number Wizard Generator is a standalone PHP project crafted to blend fun with learning. It’s more than just a tool for generating lotto numbers—it's an engaging way for PHP beginners to dive into coding, develop simple algorithms, and grow their skills in a practical, hands-on manner.
 
-<img src="https://github.com/MorbeusDesign/LottoNumbersGenerator/blob/main/lotto49.png" width=400 alt = 'The goddess Fortuna' />
+<div align="center">
+<img  src="https://github.com/MorbeusDesign/LottoNumbersGenerator/blob/main/lotto49.png" width="600"  alt = 'The goddess Fortuna' />
+</div>
 
 ## Key Features:
 Unique Number Generation: Randomly generates 6 unique lotto numbers between 1 and 49, ensuring variety and unpredictability in every draw.
@@ -12,10 +14,11 @@ User-Friendly Interface: Offers a simple, command-line interface that makes gene
 ## Learning Focus:
 The primary goal of Lotto Number Generator is to support PHP learners in understanding and applying basic coding concepts through a practical, enjoyable project. Key learning outcomes include:
 
-## Algorithm Development: Build and refine basic algorithms, such as random number generation and filtering techniques.
-PHP Fundamentals: Gain hands-on experience with core PHP syntax, functions, and control structures.
-Problem-Solving Skills: Enhance critical thinking by identifying and implementing effective solutions to optimize code performance.
-Project-Based Learning: Work on a self-contained project that provides a clear, tangible outcome, making learning PHP both rewarding and relevant.
+- Algorithm Development: Build and refine basic algorithms, such as random number generation and filtering techniques.
+- PHP Fundamentals: Gain hands-on experience with core PHP syntax, functions, and control structures.
+- Problem-Solving Skills: Enhance critical thinking by identifying and implementing effective solutions to optimize code performance.
+- Project-Based Learning: Work on a self-contained project that provides a clear, tangible outcome, making learning PHP both rewarding and relevant.
+  
 Lotto Number Wizard Generator is perfect for those at the start of their PHP journey, offering a blend of utility and entertainment that keeps learning engaging and rewarding. Dive in, have fun, and let your coding skills grow alongside your chances of picking those lucky numbers!
 ___
 
@@ -326,11 +329,15 @@ If you want to adapt the generator for a different lotto game that selects 5 num
    }
    ```
 
-### Conclusion
 
 By adjusting `generateLottoNumbers()` and `groupNumbers()`, you can easily adapt the Lotto Number Wizard Generator to fit different lotto formats and game rules. This flexibility allows you to experiment with various algorithms and criteria, making it an excellent exercise for understanding how to structure logic and data handling in PHP.
 
 
+
+**Please**🙏
+If you enjoyed this Repo and found it helpful, please give it a Like👍 to show your support! Don’t forget to follow me on [Medium](https://medium.com/@themorbeus) for more interesting articles on programming, tips, and project ideas. Your engagement motivates me to keep sharing content that helps you grow as a developer. 
+**Let’s continue learning and coding together!**
+🚀
 
 
 
