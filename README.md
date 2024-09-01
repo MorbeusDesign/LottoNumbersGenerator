@@ -1,5 +1,6 @@
 # LottoNumbersGenerator
 Lotto Number Wizard Generator is a standalone PHP project crafted to blend fun with learning. It’s more than just a tool for generating lotto numbers—it's an engaging way for PHP beginners to dive into coding, develop simple algorithms, and grow their skills in a practical, hands-on manner.
+
 <img src="https://github.com/MorbeusDesign/LottoNumbersGenerator/blob/main/lotto49.png" width=400 alt = 'The goddess Fortuna' />
 
 ## Key Features:
